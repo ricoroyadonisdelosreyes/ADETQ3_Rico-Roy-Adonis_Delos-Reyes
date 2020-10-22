@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>ADTQ3_Rico_Roy_Adonis_Delos_Reyes</RootNamespace>
+  </PropertyGroup>
+
+</Project>
